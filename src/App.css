@@ -1,0 +1,20 @@
+h1
+{
+    text-align: center ;
+}
+*
+{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+.App
+{
+    height: 200vh;
+    width: 100vw;
+    background-color: black;
+}
+.flex
+{
+    display: flex;
+}
