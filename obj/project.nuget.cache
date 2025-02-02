@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "fANdrS7Axjw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kartik Raiyani\\source\\repos\\MDI\\MDI\\MDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\rebex.common\\7.0.9147\\rebex.common.7.0.9147.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\rebex.filetransfer\\7.0.9147\\rebex.filetransfer.7.0.9147.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\rebex.ftp\\7.0.9147\\rebex.ftp.7.0.9147.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\rebex.networking\\7.0.9147\\rebex.networking.7.0.9147.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\rebex.sftp\\7.0.9147\\rebex.sftp.7.0.9147.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\Kartik Raiyani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
